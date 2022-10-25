@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'test2';
+  title = 'test-routing';
+  idParameter = "test_id";
 }
